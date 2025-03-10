@@ -1,0 +1,3 @@
+[submodule "winet-s"]
+	path = winet-s
+	url = https://github.com/anicoll/winet-intergration.git
